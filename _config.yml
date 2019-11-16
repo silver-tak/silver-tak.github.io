@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "SILVER TAK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Active, Positive, Responsible, Pleasant"
   location         : "Seooul. Guro-gu"
   email            : "silver-tak@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:silver-tak@naver.com
+      # url: mailto:silver-tak@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

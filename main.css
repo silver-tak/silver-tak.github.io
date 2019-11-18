@@ -2,11 +2,18 @@
 {
     background-color: #252a34;   
     color: #eaeaea;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight:bold;
 }
 .main_container
 {
     height: 100%;
 }
+.title_style
+{
+    font-size:28px;
+}
 .text_style
 {
+    font-size:20px;
 }

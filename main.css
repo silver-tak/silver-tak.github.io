@@ -24,6 +24,10 @@
     border-bottom: 1px solid #51555d;
     line-height:30px;
 }
+#contents
+{
+    border-bottom: 1px solid #51555d;
+}
 .title_style
 {
     font-size:28px;
